@@ -1,8 +1,6 @@
-let randomNuber = 9
+const url = 'https://jsonplaceholder.typicode.com/users'
 
-setTimeout (() => {
-    randomNuber += 100
-    console.log(randomNuber)
-}, 2000)
-
-console.log(randomNuber)
+const getUsers = () => {
+    const usersData = fetch(url)
+    console.log(usersData)
+}
