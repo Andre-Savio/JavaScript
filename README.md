@@ -1,2 +1,2 @@
 # javascript
- Aprendendo JavaScript
+Aprendizados de Java Script
