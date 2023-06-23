@@ -1,2 +1,2 @@
-# javascript
-Aprendizados de Java Script
+# JavaScript
+Aprendizados de JavaScript
